@@ -1,5 +1,5 @@
 # Project name: Searching optimal path by A* algorithm
-**Description**: project of '인공지능최적' class in Yonsei
+**Description**: project of '인공지능최적화' class in Yonsei
 
 **Code**: A star project.py
 
